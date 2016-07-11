@@ -13,7 +13,7 @@ To navigate through space, killing as many enemies as possible
 ### Gameplay Mechanics
 Players will move their ship vertically while the ship continuously rapid fires, attempting to clear the way as they pass through space.  Players score points by destroying enemies, with the larger enemies being worth more points.  Each enemy has its unique characteristics that the player must learn and overcome. 
 ### Level Design
-There are no levels; Ther is only one-player game mode.
+There are no levels; There is only one-player game mode.
 
 ## Technical
 

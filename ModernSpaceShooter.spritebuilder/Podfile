@@ -1,0 +1,7 @@
+pod 'ChartboostSDK'
+pod 'Google-Mobile-Ads-SDK'
+pod 'Google/Analytics'
+pod 'Mixpanel'
+pod 'FlurrySDK/FlurrySDK'
+pod 'FlurrySDK/FlurryAds'
+pod 'Parse'

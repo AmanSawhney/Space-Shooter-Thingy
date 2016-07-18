@@ -1,5 +1,5 @@
 # Space-Shooter-Thingy
-
+### Also don't forget to star!
 ####...is now on the App Store! Download it from the [App Store](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiqjoHP7-vNAhVIRiYKHTeZBxsQFggcMAA&url=https:%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fspace-shooter-thingy-best%2Fid1032167641%3Fmt%3D8&usg=AFQjCNGbtdVt9J9Lo2Kr9v7L3d0jc4c45g&sig2=7Cndd-cdX7MYqA9oHwFWDQ&bvm=bv.126130881,d.eWE) today!
 
 ##ScreenShots 
